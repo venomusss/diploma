@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background: #FDFFF7 !important;
+    min-height: 100vh
+}
+
+p, h1,h1,h3,h4,h5,h6 {
+    color: #50514f !important;
+}
+
+h1,h1,h3,h4,h5,h6 {
+    font-weight: 700 !important;
+}
+
+a {
+    color: #496F5D !important;
+}
+
+.Mui-error {
+    color: #d32f2f !important;
+}
